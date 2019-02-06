@@ -31,5 +31,3 @@ document.body.addEventListener('keydown', function(k){
       }
     });
 }
-
-init();
