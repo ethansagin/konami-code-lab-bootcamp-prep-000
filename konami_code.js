@@ -22,7 +22,7 @@ document.body.addEventListener('keydown', function(k){
         index++;
  
       if (index === codes.length) {
-        alert("Hurray!");
+        window.alert("Hurray!");
  
         index = 0;
         }
